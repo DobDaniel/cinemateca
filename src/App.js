@@ -9,13 +9,12 @@ function App() {
     return (
         <BrowserRouter>
             <Switch>
-                <Route path="/" exact component={MainView} />
+                <Route path="/cinemateca" exact component={MainView} />
                 <Route path="/movie/:movieID" component={Details} />
                 <Route path="/show/:showID" component={DetailsShow} />
                 <Route path="/person/:personID" component={DetailsPerson} />
             </Switch>
         </BrowserRouter>
-        
     );
 }
 
