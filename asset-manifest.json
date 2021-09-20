@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cinemateca/static/css/main.40e15829.chunk.css",
+    "main.js": "/cinemateca/static/js/main.210c05e5.chunk.js",
+    "main.js.map": "/cinemateca/static/js/main.210c05e5.chunk.js.map",
+    "runtime-main.js": "/cinemateca/static/js/runtime-main.774f99a1.js",
+    "runtime-main.js.map": "/cinemateca/static/js/runtime-main.774f99a1.js.map",
+    "static/js/2.6adc8947.chunk.js": "/cinemateca/static/js/2.6adc8947.chunk.js",
+    "static/js/2.6adc8947.chunk.js.map": "/cinemateca/static/js/2.6adc8947.chunk.js.map",
+    "index.html": "/cinemateca/index.html",
+    "static/css/main.40e15829.chunk.css.map": "/cinemateca/static/css/main.40e15829.chunk.css.map",
+    "static/js/2.6adc8947.chunk.js.LICENSE.txt": "/cinemateca/static/js/2.6adc8947.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/cinemateca/static/media/Jost-VariableFont_wght.3410386a.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.774f99a1.js",
+    "static/js/2.6adc8947.chunk.js",
+    "static/css/main.40e15829.chunk.css",
+    "static/js/main.210c05e5.chunk.js"
+  ]
+}
