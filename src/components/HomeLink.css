@@ -1,0 +1,19 @@
+.link-wrap{
+    padding: 2rem 9rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.link-home{
+    color: white;
+    font-size:3rem;
+    font-weight: 700;
+    text-decoration: none;
+    
+}
+.link-home p{
+    margin: 0;
+}
+.link-home:hover{
+    color: #ff8906;
+}

@@ -1,0 +1,71 @@
+.movie-info {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    padding-left: 3rem;
+}
+.movie-title {
+    font-size: 3rem;
+    font-weight: 700;
+}
+.movie-overview {
+    color: white;
+    font-size: 1.5rem;
+}
+.movie-layout {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    
+}
+.movie-vote {
+    align-self: flex-end;
+    
+}
+.movie-vote-text {
+    background-color: #ff8906;
+    border-radius: 1rem;
+    padding: 1rem;
+    color: white;
+    font-size: 1.75rem;
+    font-weight: 700;
+}
+.detail-movie-poster {
+    width: 400px;
+    height: 600px;
+    border-radius: 2rem;
+    border: 2px solid white;
+}
+.detail-movie-image{
+    border-radius: 2rem;
+    width: 400px;
+    height: 600px;
+}
+.detail-wrapper{
+    padding: 40px 200px;
+}
+.stream-button{
+    align-self: flex-end;
+    color: white;
+    font-size: 1.25rem;
+    font-weight: 700;
+    border: 0;
+    border-radius: 0.5rem;
+    background-color: #f25f4c;
+    width: 150px;
+    padding: 1rem 0.5rem;
+}
+.person-movies{
+    font-size: 2rem;
+    color: white;
+    display: flex;
+}
+.detail-button{
+    background-color: inherit;
+    border: 0;
+    margin-bottom: 1.5rem;
+    border-radius: 0.5rem;
+    color: white;
+    font-size: 2rem;
+    padding: 0.15rem 0.5rem;
+}
