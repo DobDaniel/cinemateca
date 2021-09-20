@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cinemateca/static/css/main.40e15829.chunk.css",
-    "main.js": "/cinemateca/static/js/main.210c05e5.chunk.js",
-    "main.js.map": "/cinemateca/static/js/main.210c05e5.chunk.js.map",
+    "main.js": "/cinemateca/static/js/main.ba64f846.chunk.js",
+    "main.js.map": "/cinemateca/static/js/main.ba64f846.chunk.js.map",
     "runtime-main.js": "/cinemateca/static/js/runtime-main.774f99a1.js",
     "runtime-main.js.map": "/cinemateca/static/js/runtime-main.774f99a1.js.map",
     "static/js/2.6adc8947.chunk.js": "/cinemateca/static/js/2.6adc8947.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.774f99a1.js",
     "static/js/2.6adc8947.chunk.js",
     "static/css/main.40e15829.chunk.css",
-    "static/js/main.210c05e5.chunk.js"
+    "static/js/main.ba64f846.chunk.js"
   ]
 }
